@@ -1,0 +1,26 @@
+Actualizaciones Sistema Historias Clínica, Laboratorio y Odontologia
+
+1. Renovación de los nuevos comandos para conexión mysql a comando mysqli (base de datos),
+implica en que las consultas sean más rápida en menos código.
+
+2. Actualización en el formato de presentación fecha y hora.
+
+3. Actualziación en la presentación gráfica y manejo en forma de pestaña y colores,
+en todos los formularios de entrada y ediciòn.
+
+4. Tooltip o mensajes de ayuda en cada ícono o enlace.
+
+5. Limpieza de código en general, código sobrante o de prueba anteriormente cuando se hacia el sistema.
+
+6. Menú Fijo superior con todas las opciones. Por ello quedò pantalla para visualización y mayor
+practicidad en el manejo.
+
+7. Mejor tipo de letra.
+
+8. EN ODONTOLOGIA AÑADI UN ILUSTRADOR para el paciente donde ahi varias imágenes dentales con
+un Paint donde se puede explicar al paciente el tratamiento y daño de la pieza dental o encia
+y poder guardar la imagen o gráfica explicada.
+
+9. Minúsculas en Laboratorio que fué lo primero que me dijo el Dr henry.
+
+10. Log de seguridad dondee se llevará todas las operaciones que se realicen de todos los usuarios.

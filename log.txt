@@ -1,0 +1,91 @@
+
+Creado Nuevo Paciente,20/01/2015 16:12:53,88251837,admin
+Creado Nuevo Paciente,20/01/2015 16:23:47,123,admin127.0.0.1
+Abrir Historia Clínica,20/01/2015 16:30:07,123,admin,127.0.0.1
+Abrir Historia Clínica,20/01/2015 16:31:22,3425324,admin,127.0.0.1
+Insertar Consulta Médica,20/01/2015 16:34:25,,,127.0.0.1
+Insertar Consulta Médica,20/01/2015 16:35:30,,admin,127.0.0.1
+Insertar Consulta Médica,20/01/2015 16:53:37,88251837,     EXAMEN CLINICO PRIMERA VEZ,admin,127.0.0.1
+Paciente Eliminado,20/01/2015 17:13:43,127.0.0.1
+Paciente Eliminado,20/01/2015 17:19:05,223127.0.0.1
+Paciente Eliminado,20/01/2015 17:20:13,192,127.0.0.1
+Paciente Eliminado,20/01/2015 17:22:58,193,,127.0.0.1
+Paciente Eliminado,20/01/2015 17:31:44,196,,127.0.0.1
+Paciente Eliminado,20/01/2015 17:37:38,194,,127.0.0.1
+Paciente Eliminado,20/01/2015 17:39:16,198,,127.0.0.1
+Paciente Eliminado,20/01/2015 17:42:38,221,,127.0.0.1
+Paciente Eliminado,20/01/2015 18:06:10,190,,127.0.0.1
+Paciente Eliminado,20/01/2015 18:13:20,187,127.0.0.1
+Actualizó datos del Paciente,20/01/2015 18:17:50,88251837,admin,127.0.0.1
+Actualizó datos del Paciente,21/01/2015 03:46:35,88251837,admin,127.0.0.1
+Se eliminò registro,Con ID=211,21/01/2015 03:53:56,127.0.0.1
+Insertar Cita Médica,21/01/2015 03:56:18,465345,     EXAMEN CLINICO PRIMERA VEZ,admin,127.0.0.1
+Se eliminò registro con ID = ,215,21/01/2015 03:58:27,127.0.0.1
+Insertar Cita Médica,21/01/2015 04:01:22,88251837,     EXAMEN CLINICO PRIMERA VEZ,admin,127.0.0.1
+Se eliminò registro con ID = 167,El DIA: 21/01/2015 04:02:59,127.0.0.1
+Insertar Cita Médica,21/01/2015 04:04:27,88251837,      IMPRESION DE ARCO DENTARIO SUPERIOR O  INFERIOR  CON MODELO DE ESTUDIO Y CONCEPTO,admin,127.0.0.1
+Abrir Historia Clínica,20/01/2015 22:11:05,Paciente ID: 94,Documento: 88251837,admin,127.0.0.1
+Actualizó Cita,21/01/2015 04:20:22,ID del paciente: 214,ID cita: 94,Documento: ,admin,127.0.0.1
+Actualizó Cita,21/01/2015 04:22:04,ID del paciente: 216,ID cita: 94,Documento: ,admin,127.0.0.1
+Actualizó Cita,21/01/2015 04:24:26,ID del paciente: 94,ID cita: 217,Documento: ,admin,127.0.0.1
+Se eliminò registro con ID = 217,El DIA: 21/01/2015 04:28:01,127.0.0.1
+Creado Nuevo Paciente,25/01/2015 14:23:40,5555,admin,127.0.0.1
+Creado Nuevo Paciente,25/01/2015 14:24:50,555,admin,127.0.0.1
+Creado Nuevo Paciente,25/01/2015 22:04:27,1,admin,127.0.0.1
+Abrir Historia Clínica,25/01/2015 22:05:29,Paciente ID: 94,Documento: 88251837,admin,127.0.0.1
+Abrir Historia Clínica,26/01/2015 15:02:28,Paciente ID: 94,Documento: 88251837,admin,127.0.0.1
+Creado Nuevo Paciente,26/01/2015 15:02:57,678,admin,127.0.0.1
+Creado Nuevo Paciente,26/01/2015 15:03:55,555,admin,127.0.0.1
+Creado Nuevo Paciente,26/01/2015 15:04:19,777,admin,127.0.0.1
+Abrir Historia Clínica,26/01/2015 15:05:46,Paciente ID: 94,Documento: 88251837,admin,127.0.0.1
+Creado Nuevo Paciente,26/01/2015 15:06:18,967895678,admin,127.0.0.1
+Creado Nuevo Paciente,26/01/2015 15:07:29,7777,admin,127.0.0.1
+Abrir Historia Clínica,26/01/2015 15:07:43,Paciente ID: 94,Documento: 88251837,admin,127.0.0.1
+Abrir Historia Clínica,26/01/2015 15:07:43,Paciente ID: 94,Documento: 88251837,admin,127.0.0.1
+Creado Nuevo Paciente,26/01/2015 15:12:34,5555,admin,127.0.0.1
+Creado Nuevo Paciente,26/01/2015 15:18:58,777,admin,127.0.0.1
+Creado Nuevo Paciente,26/01/2015 15:21:53,7777,admin,127.0.0.1
+Creado Nuevo Paciente,26/01/2015 15:22:18,77,admin,127.0.0.1
+Creado Nuevo Paciente,26/01/2015 15:22:53,88,admin,127.0.0.1
+Creado Nuevo Paciente,26/01/2015 15:24:51,66,admin,127.0.0.1
+Creado Nuevo Paciente,26/01/2015 15:25:36,7777,admin,127.0.0.1
+Creado Nuevo Paciente,26/01/2015 15:26:37,888,admin,127.0.0.1
+Creado Nuevo Paciente,26/01/2015 15:27:43,77,user02,127.0.0.1
+Creado Nuevo Paciente,26/01/2015 15:33:57,55,admin,127.0.0.1
+Creado Nuevo Paciente,26/01/2015 15:46:13,66,admin,127.0.0.1
+Creado Nuevo Paciente,26/01/2015 15:46:56,666,admin,127.0.0.1
+Creado Nuevo Paciente,26/01/2015 15:47:47,777,admin,127.0.0.1
+Creado Nuevo Paciente,26/01/2015 15:48:09,98,admin,127.0.0.1
+Creado Nuevo Paciente,26/01/2015 15:48:33,888,admin,127.0.0.1
+Se eliminò registro con ID = 237,El DIA: 26/01/2015 21:49:13,127.0.0.1
+Actualizó datos del Paciente,26/01/2015 21:49:50,ID del paciente: 120,Documento: 882569324,admin,127.0.0.1
+Creado Nuevo Paciente,26/01/2015 15:52:27,88251837,admin,127.0.0.1
+Creado Nuevo Paciente,26/01/2015 15:54:03,888,admin,127.0.0.1
+Creado Nuevo Paciente,26/01/2015 15:56:22,7685678,admin,127.0.0.1
+Creado Nuevo Paciente,26/01/2015 15:57:26,888,admin,127.0.0.1
+Creado Nuevo Paciente,26/01/2015 15:58:04,67788,admin,127.0.0.1
+Creado Nuevo Paciente,26/01/2015 16:01:16,888,admin,127.0.0.1
+Creado Nuevo Paciente,26/01/2015 16:03:16,777,admin,127.0.0.1
+Creado Nuevo Paciente,26/01/2015 16:05:38,7,admin,127.0.0.1
+Creado Nuevo Paciente,26/01/2015 16:06:04,888,admin,127.0.0.1
+Insertar Cita Médica,10/03/2015 04:41:46,id_cita: 94,Documento: 88251837,     Consulta especializada,ADMIN LHPM,127.0.0.1
+Insertar Cita Médica,11/03/2015 03:08:21,id_cita: 94,Documento: 88251837,     EXAMEN CLINICO PRIMERA VEZ,admin,127.0.0.1
+Insertar Cita Médica,11/03/2015 03:10:13,id_cita: 94,Documento: 88251837,      CONSULTA DE PRIMERA VEZ POR ODONTOLOGIA GENERAL,admin,127.0.0.1
+Insertar Cita Médica,11/03/2015 03:12:22,id_cita: ,Documento: ,,admin,127.0.0.1
+Insertar Cita Médica,11/03/2015 03:12:48,id_cita: 94,Documento: 88251837,      CONSULTA DE CONTROL O DE SEGUIMIENTO DE PROGRAMA POR ODONTOLOGIA GENERAL,admin,127.0.0.1
+Se eliminò registro con ID = 197,El DIA: 23/02/2017 22:03:11,127.0.0.1
+Actualizó datos del Paciente,23/02/2017 22:03:54,ID del paciente: 128,Documento: 665201245,admin,127.0.0.1
+Actualizó datos del Paciente,23/02/2017 22:04:20,ID del paciente: 128,Documento: 665201245,admin,127.0.0.1
+Actualizó datos del Paciente,23/02/2017 22:04:43,ID del paciente: 128,Documento: 665201245,admin,127.0.0.1
+Actualizó datos del Paciente,30/04/2018 20:52:43,ID del paciente: 120,Documento: 882569324,admin,186.87.59.51
+Se eliminò registro con ID = 194,El DIA: 30/04/2018 20:53:34,186.87.59.51
+Se eliminò registro con ID = 198,El DIA: 30/04/2018 20:53:44,186.87.59.51
+Se eliminò registro con ID = 199,El DIA: 11/05/2018 19:44:22,54.88.52.199
+Se eliminò registro con ID = 165,El DIA: 11/05/2018 19:44:22,54.88.52.199
+Se eliminò registro con ID = 166,El DIA: 11/05/2018 19:44:22,54.88.52.199
+Se eliminò registro con ID = 167,El DIA: 11/05/2018 19:44:52,54.88.52.199
+Se eliminò registro con ID = 202,El DIA: 11/05/2018 19:45:22,54.88.52.199
+Se eliminò registro con ID = 160,El DIA: 11/05/2018 19:45:23,54.88.52.199
+Se eliminò registro con ID = 201,El DIA: 11/05/2018 19:45:23,54.88.52.199
+Se eliminò registro con ID = 215,El DIA: 11/05/2018 19:45:53,54.88.52.199
+Se eliminò registro con ID = 216,El DIA: 11/05/2018 19:45:53,54.88.52.199

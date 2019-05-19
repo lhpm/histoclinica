@@ -1,0 +1,17 @@
+histoclinica2014@gmail.com
+histo2014
+
+www.histoclinicas.hostei.com
+
+
+ns01.000webhost.com	31.170.167.6
+ns02.000webhost.com	31.170.164.248
+
+FTP host name	histoclinicas.hostei.com
+FTP user name	a6574890
+pass		histo2014
+
+$mysql_host = "mysql10.000webhost.com";
+$mysql_database = "a6574890_histo";
+$mysql_user = "a6574890_histo";
+$mysql_password = "histo2014";
